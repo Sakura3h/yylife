@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<!--suppress ALL-->
+<html lang="en" xmlns:th="http://www.w3.org/1999/html">
+
+<head>
+    <meta http-equiv="Content-Type"  />
+    <title>hello word</title>
+</head>
+<body>
+<!--/*@thymesVar id="name" type="java.lang.String"*/-->
+<div th:each="user:${listDemo}">
+    <span th:text="user.username"></span>
+    <span th:text="user.password"></span>
+</div>
+
+</body>
+</html>

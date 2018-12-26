@@ -4,5 +4,16 @@ spring:
     username: root
     password: 1234
     driver-class-name: com.mysql.jdbc.Driver
+  thymeleaf:
+    mode: HTML5
+    encoding: UTF-8
+    cache: false
+    prefix: classpath:/templates/
+    suffix: .html
+    content-type: text/html
 server:
-  port: 8082
+  port: 8081
+mybatis:
+  type-aliases-package: com.hehe.yylifeapi.pojo
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
