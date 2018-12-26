@@ -26,7 +26,7 @@
 		<module>yylife-web</module>
 		<module>yylife-service</module>
 		<module>yylife-api</module>
-		<module>yylife-entity</module>
+		<module>yylife-config</module>
 	</modules>
 
 	<!-- 版本说明：这里统一管理依赖的版本号 -->
@@ -49,7 +49,7 @@
 			</dependency>
 			<dependency>
 				<groupId>com.hehe</groupId>
-				<artifactId>yylife-entity</artifactId>
+				<artifactId>yylife-config</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
 			</dependency>
 		</dependencies>

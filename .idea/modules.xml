@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/yylife.iml" filepath="$PROJECT_DIR$/yylife.iml" />
       <module fileurl="file://$PROJECT_DIR$/yylife-api/yylife-api.iml" filepath="$PROJECT_DIR$/yylife-api/yylife-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yylife-config/yylife-config.iml" filepath="$PROJECT_DIR$/yylife-config/yylife-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/yylife-service/yylife-service.iml" filepath="$PROJECT_DIR$/yylife-service/yylife-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/yylife-web/yylife-web.iml" filepath="$PROJECT_DIR$/yylife-web/yylife-web.iml" />
     </modules>

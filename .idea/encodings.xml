@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yylife-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yylife-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yylife-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yylife-util" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/yylife-web" charset="UTF-8" />

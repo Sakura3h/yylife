@@ -24,6 +24,10 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.hehe</groupId>
+            <artifactId>yylife-config</artifactId>
+        </dependency>
     </dependencies>
 
 

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="yylife-api" />
+        <module name="yylife-config" />
         <module name="yylife-service" />
         <module name="yylife-web" />
       </profile>
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="yylife" target="1.8" />
       <module name="yylife-api" target="1.8" />
+      <module name="yylife-config" target="1.8" />
       <module name="yylife-service" target="1.8" />
       <module name="yylife-util" target="1.8" />
       <module name="yylife-web" target="1.8" />
